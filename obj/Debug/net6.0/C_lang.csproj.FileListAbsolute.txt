@@ -1,0 +1,15 @@
+C:\Users\sivas\OneDrive\Desktop\C_lang\bin\Debug\net6.0\C_lang.exe
+C:\Users\sivas\OneDrive\Desktop\C_lang\bin\Debug\net6.0\C_lang.deps.json
+C:\Users\sivas\OneDrive\Desktop\C_lang\bin\Debug\net6.0\C_lang.runtimeconfig.json
+C:\Users\sivas\OneDrive\Desktop\C_lang\bin\Debug\net6.0\C_lang.dll
+C:\Users\sivas\OneDrive\Desktop\C_lang\bin\Debug\net6.0\C_lang.pdb
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.csproj.AssemblyReference.cache
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.AssemblyInfoInputs.cache
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.AssemblyInfo.cs
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.csproj.CoreCompileInputs.cache
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.dll
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\refint\C_lang.dll
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.pdb
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\C_lang.genruntimeconfig.cache
+C:\Users\sivas\OneDrive\Desktop\C_lang\obj\Debug\net6.0\ref\C_lang.dll
